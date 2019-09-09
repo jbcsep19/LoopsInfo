@@ -1,6 +1,11 @@
 import java.util.Scanner;
 
 public class ComplexLoop {
+    // Ask the user for the weather "What's the weather like?"
+    // Display their input "Today is ***!"
+    // Continue until they say "no"
+
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String rep = "";
